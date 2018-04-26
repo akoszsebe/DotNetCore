@@ -27,12 +27,4 @@
     <DotNetCliToolReference Include="Microsoft.DotNet.Watcher.Tools" Version="2.0.0" />
   </ItemGroup> 
 
-  <ItemGroup>
-    <DotNetCliToolReference Include="Microsoft.AspNetCore.Mvc.Versioning" Version="2.2.0" />
-  </ItemGroup> 
-
-  <ItemGroup>
-    <DotNetCliToolReference Include="Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer" Version="2.2.0" />
-  </ItemGroup> 
-
 </Project>
